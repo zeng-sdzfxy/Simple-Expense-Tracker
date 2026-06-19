@@ -23,16 +23,16 @@
 > 将截图放入 `screenshots/` 文件夹后，取消下方对应的注释即可展示。
 
 ### 首页
-<!-- ![首页](screenshots/home.png) -->
+![首页](screenshots/首页.png)
 
 ### 添加账单
-<!-- ![添加账单](screenshots/add.png) -->
+![添加账单](screenshots/添加账单.png)
 
 ### 账单列表
-<!-- ![账单列表](screenshots/list.png) -->
+![账单列表](screenshots/账单列表.png)
 
 ### 分类统计
-<!-- ![分类统计](screenshots/stats.png) -->
+![分类统计](screenshots/分类统计.png)
 
 ---
 
