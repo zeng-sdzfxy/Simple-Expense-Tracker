@@ -1,0 +1,21 @@
+# AI 工具本地配置
+.claude/
+__pycache__/
+.cursor/
+.aider*
+.continue/
+.cody/
+
+# 密钥和凭证
+*.pem
+*.key
+credentials.json
+.npmrc
+.aws/
+.ssh/
+
+# SQLite 数据库
+finance.db
+
+# Python 虚拟环境
+venv/
